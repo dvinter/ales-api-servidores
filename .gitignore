@@ -1,0 +1,5 @@
+packages/
+apiDadosServidores/obj/
+apiDadosServidores/bin
+
+*.[dD][lL][lL]
